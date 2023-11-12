@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dorggie&#39;s Blog</title>
-    <link>https://dorggie.github.io/posts/</link>
-    <description>Recent content in Posts on Dorggie&#39;s Blog</description>
+    <title>diary on Dorggie&#39;s Blog</title>
+    <link>https://dorggie.github.io/tags/diary/</link>
+    <description>Recent content in diary on Dorggie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 13 Nov 2023 00:54:46 +0800</lastBuildDate>
-    <atom:link href="https://dorggie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dorggie.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最近遇到的奇妙事情</title>
       <link>https://dorggie.github.io/posts/diary/20231113/</link>
       <pubDate>Mon, 13 Nov 2023 00:54:46 +0800</pubDate>
       <guid>https://dorggie.github.io/posts/diary/20231113/</guid>
       <description>最近好像水逆，諸事不順，很容易把東西搞丟，但又都能找回來，算是不幸中的小卻幸 今天早上最誇張，錢包放在桌上沒看到，還以為不見了，用手機買完東西回來才發現，原本快緊</description>
-    </item>
-    <item>
-      <title>Hugo 網站架設 從 0 到 100</title>
-      <link>https://dorggie.github.io/posts/hugo/</link>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://dorggie.github.io/posts/hugo/</guid>
-      <description>先備條件 安裝 hugo，要讓你的 command line 可以執行 hugo 指令，OS 則沒有限制 我使用 windows 來操作，設定可以參考這篇，到 hugo 官方下載 windows 執行檔，然後加到環境變數裡面 hugo 指令 總共常使用的只</description>
     </item>
   </channel>
 </rss>

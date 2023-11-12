@@ -6,8 +6,15 @@
     <description>Recent content on Dorggie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 00:54:46 +0800</lastBuildDate>
     <atom:link href="https://dorggie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最近遇到的奇妙事情</title>
+      <link>https://dorggie.github.io/posts/diary/20231113/</link>
+      <pubDate>Mon, 13 Nov 2023 00:54:46 +0800</pubDate>
+      <guid>https://dorggie.github.io/posts/diary/20231113/</guid>
+      <description>最近好像水逆，諸事不順，很容易把東西搞丟，但又都能找回來，算是不幸中的小卻幸 今天早上最誇張，錢包放在桌上沒看到，還以為不見了，用手機買完東西回來才發現，原本快緊</description>
+    </item>
     <item>
       <title>Hugo 網站架設 從 0 到 100</title>
       <link>https://dorggie.github.io/posts/hugo/</link>
