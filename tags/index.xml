@@ -6,34 +6,20 @@
     <description>Recent content in Tags on Dorggie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Nov 2023 00:54:46 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Nov 2023 03:58:58 +0800</lastBuildDate>
     <atom:link href="https://dorggie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>diary</title>
       <link>https://dorggie.github.io/tags/diary/</link>
-      <pubDate>Mon, 13 Nov 2023 00:54:46 +0800</pubDate>
+      <pubDate>Sat, 18 Nov 2023 03:58:58 +0800</pubDate>
       <guid>https://dorggie.github.io/tags/diary/</guid>
       <description></description>
     </item>
     <item>
-      <title>github page</title>
-      <link>https://dorggie.github.io/tags/github-page/</link>
+      <title>tech</title>
+      <link>https://dorggie.github.io/tags/tech/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://dorggie.github.io/tags/github-page/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>hugo</title>
-      <link>https://dorggie.github.io/tags/hugo/</link>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://dorggie.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>website</title>
-      <link>https://dorggie.github.io/tags/website/</link>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://dorggie.github.io/tags/website/</guid>
+      <guid>https://dorggie.github.io/tags/tech/</guid>
       <description></description>
     </item>
   </channel>
