@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Dorggie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Nov 2023 00:54:46 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Nov 2023 03:58:58 +0800</lastBuildDate>
     <atom:link href="https://dorggie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>尋找我的快樂心</title>
+      <link>https://dorggie.github.io/posts/diary/20231118/</link>
+      <pubDate>Sat, 18 Nov 2023 03:58:58 +0800</pubDate>
+      <guid>https://dorggie.github.io/posts/diary/20231118/</guid>
+      <description>該怎麼說呢，總之就是覺得最近諸事不順 到目前為止，都十分後悔走上研究所這條路，當時只是抱著推推看的心態，沒上就要去工作了，沒想到現在還要待在新竹受苦受難，羨慕著已</description>
+    </item>
     <item>
       <title>最近遇到的奇妙事情</title>
       <link>https://dorggie.github.io/posts/diary/20231113/</link>
@@ -17,9 +24,9 @@
     </item>
     <item>
       <title>Hugo 網站架設 從 0 到 100</title>
-      <link>https://dorggie.github.io/posts/hugo/</link>
+      <link>https://dorggie.github.io/posts/tech/hugo/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://dorggie.github.io/posts/hugo/</guid>
+      <guid>https://dorggie.github.io/posts/tech/hugo/</guid>
       <description>先備條件 安裝 hugo，要讓你的 command line 可以執行 hugo 指令，OS 則沒有限制 我使用 windows 來操作，設定可以參考這篇，到 hugo 官方下載 windows 執行檔，然後加到環境變數裡面 hugo 指令 總共常使用的只</description>
     </item>
   </channel>
