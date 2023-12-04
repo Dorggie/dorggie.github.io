@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dorggie.github.io/</loc>
-    <lastmod>2023-12-04T13:51:50+08:00</lastmod>
+    <loc>https://dorggie.github.io/posts/resume/hackathon/</loc>
+    <lastmod>2023-12-04T23:22:21+08:00</lastmod>
   </url><url>
-    <loc>https://dorggie.github.io/tags/movie/</loc>
-    <lastmod>2023-12-04T13:51:50+08:00</lastmod>
+    <loc>https://dorggie.github.io/</loc>
+    <lastmod>2023-12-04T23:22:21+08:00</lastmod>
   </url><url>
     <loc>https://dorggie.github.io/posts/</loc>
-    <lastmod>2023-12-04T13:51:50+08:00</lastmod>
+    <lastmod>2023-12-04T23:22:21+08:00</lastmod>
+  </url><url>
+    <loc>https://dorggie.github.io/tags/resume/</loc>
+    <lastmod>2023-12-04T23:22:21+08:00</lastmod>
   </url><url>
     <loc>https://dorggie.github.io/tags/</loc>
+    <lastmod>2023-12-04T23:22:21+08:00</lastmod>
+  </url><url>
+    <loc>https://dorggie.github.io/posts/resume/english_diploma/</loc>
+    <lastmod>2023-12-04T23:22:21+08:00</lastmod>
+  </url><url>
+    <loc>https://dorggie.github.io/posts/resume/chinese_diploma/</loc>
+    <lastmod>2023-12-04T23:22:21+08:00</lastmod>
+  </url><url>
+    <loc>https://dorggie.github.io/tags/movie/</loc>
     <lastmod>2023-12-04T13:51:50+08:00</lastmod>
   </url><url>
     <loc>https://dorggie.github.io/posts/movie/</loc>
