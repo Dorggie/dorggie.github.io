@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>suggest on Dorggie&#39;s Blog</title>
+    <link>https://dorggie.github.io/tags/suggest/</link>
+    <description>Recent content in suggest on Dorggie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 11 Mar 2024 20:31:24 +0800</lastBuildDate>
+    <atom:link href="https://dorggie.github.io/tags/suggest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>遊戲推薦</title>
+      <link>https://dorggie.github.io/posts/games/</link>
+      <pubDate>Mon, 11 Mar 2024 20:31:24 +0800</pubDate>
+      <guid>https://dorggie.github.io/posts/games/</guid>
+      <description>縮圖遊戲名稱&lt;評分類別短評 Sanabi10/10動作、劇情時長不長，感動無限</description>
+    </item>
+    <item>
+      <title>電影推薦</title>
+      <link>https://dorggie.github.io/posts/movies/</link>
+      <pubDate>Mon, 04 Dec 2023 12:58:14 +0800</pubDate>
+      <guid>https://dorggie.github.io/posts/movies/</guid>
+      <description>縮圖電影名稱&lt;評分短評 About Time10/10一生推，必看！ 後來的我們7.5/10「後來的我們甚麼都有了 卻沒有了我們」 (會胃痛...) 與妳的第100次愛戀7.5/1</description>
+    </item>
+  </channel>
+</rss>
