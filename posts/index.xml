@@ -57,40 +57,5 @@
       <guid>https://dorggie.github.io/posts/tech/hugo/</guid>
       <description>先備條件 安裝 hugo，要讓你的 command line 可以執行 hugo 指令，OS 則沒有限制 我使用 windows 來操作，設定可以參考這篇，到 hugo 官方下載 windows 執行檔，然後加到環境變數裡面 hugo 指令 總共常使用的只</description>
     </item>
-    <item>
-      <title>碩士成績單</title>
-      <link>https://dorggie.github.io/posts/resume/%E7%A2%A9%E5%A3%AB%E6%88%90%E7%B8%BE%E5%96%AE/</link>
-      <pubDate>Thu, 05 Oct 2023 01:35:22 +0800</pubDate>
-      <guid>https://dorggie.github.io/posts/resume/%E7%A2%A9%E5%A3%AB%E6%88%90%E7%B8%BE%E5%96%AE/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2019資創</title>
-      <link>https://dorggie.github.io/posts/resume/2019%E8%B3%87%E5%89%B5/</link>
-      <pubDate>Thu, 05 Oct 2023 01:35:15 +0800</pubDate>
-      <guid>https://dorggie.github.io/posts/resume/2019%E8%B3%87%E5%89%B5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2020資創</title>
-      <link>https://dorggie.github.io/posts/resume/2020%E8%B3%87%E5%89%B5/</link>
-      <pubDate>Thu, 05 Oct 2023 01:35:15 +0800</pubDate>
-      <guid>https://dorggie.github.io/posts/resume/2020%E8%B3%87%E5%89%B5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>大學成績單</title>
-      <link>https://dorggie.github.io/posts/resume/%E5%A4%A7%E5%AD%B8%E6%88%90%E7%B8%BE%E5%96%AE/</link>
-      <pubDate>Thu, 05 Oct 2023 01:35:15 +0800</pubDate>
-      <guid>https://dorggie.github.io/posts/resume/%E5%A4%A7%E5%AD%B8%E6%88%90%E7%B8%BE%E5%96%AE/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2021 梅竹黑客松</title>
-      <link>https://dorggie.github.io/posts/resume/hackathon/</link>
-      <pubDate>Wed, 04 Oct 2023 22:38:11 +0800</pubDate>
-      <guid>https://dorggie.github.io/posts/resume/hackathon/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
