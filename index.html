@@ -125,15 +125,23 @@
        <!-- <div style="text-align: center;"><img src="/imgs/main.jpg" alt="hollow knight" width=70% class="center"></div> -->
 <style>
 .friend {
+  text-align: center; /* 讓 friend 內容在容器中水平居中 */
+}
+
+.friend-list {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  width: 50%;
+  margin-left: 25%;
 }
 
 .friend-info {
-  text-align: left;
-  margin-bottom: 10px;
-  max-width: 200px;
+  display: flex; 
+  align-items: center;
+  flex-grow: 1; 
+  width: 50%; 
+  margin-bottom: 10px; 
 }
 
 .friend-name {
@@ -151,21 +159,23 @@
 </style>
 <div class="friend">
   <h2>我的好友們</h2>
-  <div class="friend-info">
-    <span class="friend-name">陳昱元</span>
-    <a class="friend-link" href="charleyeasy.github.io/blog">Charleyeasy</a>
-  </div>
-  <div class="friend-info">
-    <span class="friend-name">方德霖</span>
-    <a class="friend-link" href="kereds.github.io">Kereds</a>
-  </div>
-  <div class="friend-info">
-    <span class="friend-name">胡詔宸</span>
-    <a class="friend-link" href="yagami.dev">Yagami</a>
-  </div>
-  <div class="friend-info">
-    <span class="friend-name">吳宗叡</span>
-    <a class="friend-link" href="iceglitter632.github.io/AboutMe/">IceGlitter</a>
+  <div class="friend-list">
+    <div class="friend-info">
+      <span class="friend-name">陳昱元</span>
+      <a class="friend-link" href="https://charleyeasy.github.io/blog" target="_blank">Charleyeasy</a>
+    </div>
+    <div class="friend-info">
+      <span class="friend-name">方德霖</span>
+      <a class="friend-link" href="https://kereds.github.io" target="_blank">Kereds</a>
+    </div>
+    <div class="friend-info">
+      <span class="friend-name">胡詔宸</span>
+      <a class="friend-link" href="https://yagami.dev" target="_blank">Yagami</a>
+    </div>
+    <div class="friend-info">
+      <span class="friend-name">吳宗叡</span>
+      <a class="friend-link" href="https://iceglitter632.github.io/AboutMe/" target="_blank">IceGlitter</a>
+    </div>
   </div>
 </div>
    </div>
