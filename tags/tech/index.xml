@@ -6,8 +6,15 @@
     <description>Recent content in tech on Dorggie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dorggie.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新 Server 必用的設定</title>
+      <link>https://dorggie.github.io/posts/tech/setting/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://dorggie.github.io/posts/tech/setting/</guid>
+      <description>Vim 超炫十字定位 colorscheme koehler set number set cursorline highlight CursorLine cterm=none ctermbg=DarkBlue ctermfg=White set cursorcolumn highlight CursorColumn cterm=none ctermbg=DarkBlue ctermfg=White set hlsearch set mouse=a set encoding=utf-8 set shiftwidth=4 match WhitespaceEOL /\s\+$/ 安裝 Fish Shell # 照抄 https://ithelp.ithome.com.tw/articles/10216705 sudo apt-add-repository ppa:fish-shell/release-3 sudo apt-get update sudo apt-get install fish curl -L https://get.oh-my.fish | fish omf install agnoster omf theme agnoster chsh -s /usr/bin/fish noob # noob 要換成你的使用者 將</description>
+    </item>
     <item>
       <title>Hugo 網站架設 從 0 到 100</title>
       <link>https://dorggie.github.io/posts/tech/hugo/</link>
